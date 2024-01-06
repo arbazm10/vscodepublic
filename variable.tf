@@ -1,9 +1,9 @@
-resource "azurerm_resource_group" "app6" {
-  name     = "byterraapp6"
+resource "azurerm_resource_group" "app10" {
+  name     = "byterraapp10"
   location = "North Europe"
 }
-resource "azurerm_resource_group" "app7" {
-  name     = "byterraapp7"
+resource "azurerm_resource_group" "app11" {
+  name     = "byterraapp11"
   location = "North Europe"
 }
 
