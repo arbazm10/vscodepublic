@@ -1,9 +1,9 @@
-resource "azurerm_resource_group" "app4" {
-  name     = "byterraapp4"
+resource "azurerm_resource_group" "app8" {
+  name     = "byterraapp8"
   location = "North Europe"
 }
-resource "azurerm_resource_group" "app5" {
-  name     = "byterraapp5"
+resource "azurerm_resource_group" "app9" {
+  name     = "byterraapp9"
   location = "North Europe"
 }
 terraform {
